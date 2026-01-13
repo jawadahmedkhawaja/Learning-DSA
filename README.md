@@ -28,7 +28,7 @@ Welcome to my DSA journey! This repository contains my notes, code implementatio
 ├── 08_Graphs/              # BFS, DFS, Dijkstra’s
 ├── 09_Dynamic_Programming/ # Memoization & Tabulation
 ├── 10_Hashing/             # Hashing
-├──Leet_Code_Problems_Solution/ # Leet Code Practice
+├── Leet_Code_Problems_Solution/ # Leet Code Practice
 └── Problems_Solution/      # Solution to problems solved during the series
 
 ```
