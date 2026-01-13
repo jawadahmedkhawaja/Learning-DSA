@@ -36,10 +36,10 @@ Welcome to my DSA journey! This repository contains my notes, code implementatio
 | Topic | Status | Exercises Completed |
 | --- | --- | --- |
 | Basics & Time Complexity | Completed  | 3/3 |
-| Array / Strings | ⏳ In Progress | 0/10 |
+| Array / Strings | ⚪ Not Started | 0/10 |
 | Linked List | ⚪ Not Started | 0/5 |
 | Stacks & Queues | ⚪ Not Started | 0/5 |
-| Searching & Sorting | ⚪ Not Started | 0/8 |
+| Searching & Sorting | ⏳ In Progress | 1/8 |
 | Trees | ⚪ Not Started | 0/0 |
 
 ## Key Concepts Learned

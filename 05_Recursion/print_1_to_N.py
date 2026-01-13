@@ -1,10 +1,10 @@
-def print1ToN(i, n):
+def print1ToN(n):
    
-    if i > n:
+    if n<1 :
         return
     
-    print(i)
-    print1ToN(i+1,n)
+    print1ToN(n-1)
+    print(n)
 
 
-print1ToN(1,5)
+print1ToN(5) 
